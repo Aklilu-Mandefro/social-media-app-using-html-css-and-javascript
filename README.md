@@ -1,4 +1,4 @@
-# social-media-app-using-html-css-and-javascript
+# ✍️ social-media-app-using-html-css-and-javascript
 
 This is a very very simple Social Media Application that would just help beginners to understand developing CRUD apps
 
