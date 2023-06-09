@@ -1,7 +1,9 @@
 # ✍️ social-media-app-using-html-css-and-javascript
 
 This is a very very simple Social Media Application that would just help beginners to understand developing CRUD apps
-
+### How to run the app
+👉 running this app is straightforward. Just open the `index.html` file in your browser. 
+ 
 ## Preview of the social media app
 
 <img src="https://i.imgur.com/U4DdaZG.gif"/>
